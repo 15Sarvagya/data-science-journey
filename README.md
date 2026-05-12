@@ -1,7 +1,7 @@
-# data-science-journey
+# data-visualization-journey
 Daily practice notebooks while learning Python and Data Science fundamentals.
 
-# Data Science Practice 📊🐍
+# Data visualization Practice 📊🐍
 
 This repository contains my **daily practice notebooks** while learning **Python and Data Science fundamentals**.
 
